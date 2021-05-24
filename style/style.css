@@ -33,11 +33,14 @@ figcaption {
     background-color:yellow;
 }
 
-th {
+thead {
     background-color: cornflowerblue;
+    line-height: 10px;
 }
 
-.images {
-    height: 500px;
-    width: 500px;
+
+
+#images {
+    width: 700px;
+    
 }
