@@ -1,3 +1,7 @@
+body {
+    font-size: 20px;
+}
+
 #banner {
     height: 150px;
     background-color:cornflowerblue;
@@ -17,7 +21,18 @@ h1 {
     font-size: 30px;
 }
 
+figcaption {
+    font-size: 15px;
+}
+
 #booleaner {
     color:deepskyblue;
 }
 
+.highlight {
+    background-color:yellow;
+}
+
+th {
+    background-color: cornflowerblue;
+}
