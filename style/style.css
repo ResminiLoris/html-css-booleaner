@@ -36,3 +36,8 @@ figcaption {
 th {
     background-color: cornflowerblue;
 }
+
+.images {
+    height: 500px;
+    width: 500px;
+}
