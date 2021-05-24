@@ -1,0 +1,9 @@
+#banner {
+    height: 150px;
+    background-color:cornflowerblue;
+    background-image: url(../img/pattern.png);
+}
+
+#logo {
+    width: 400px;
+}
