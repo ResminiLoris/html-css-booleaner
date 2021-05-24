@@ -7,3 +7,16 @@
 #logo {
     width: 400px;
 }
+
+h1 {
+   font-size: 80px;
+   border-bottom: 0%;
+}
+
+.caption {
+    font-size: 30px;
+}
+
+#booleaner {
+    color:deepskyblue;
+}
