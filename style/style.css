@@ -1,7 +1,9 @@
+/*generals*/
 body {
     font-size: 20px;
 }
 
+/*header*/
 #banner {
     height: 150px;
     background-color:cornflowerblue;
@@ -10,6 +12,10 @@ body {
 
 #logo {
     width: 400px;
+}
+
+#booleaner {
+    color:deepskyblue;
 }
 
 h1 {
@@ -21,26 +27,41 @@ h1 {
     font-size: 30px;
 }
 
+.italic {
+    font-style: italic;
+}
+
+/*foto*/
 figcaption {
     font-size: 15px;
 }
 
-#booleaner {
-    color:deepskyblue;
-}
-
+/*corpo*/
 .highlight {
     background-color:yellow;
 }
 
+/*tabella*/
 thead {
     background-color: cornflowerblue;
     line-height: 10px;
+    color: white;
+}
+
+.light-blue {
+    background-color:lightblue;
 }
 
 
+/*footer*/
+.link {
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    background-image: url(../img/monitor.jpg);
+    color: white;
+}
 
-#images {
-    width: 700px;
-    
+#link-2 {
+    background-image: url(../img/graph.jpg);
 }
