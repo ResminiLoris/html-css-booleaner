@@ -42,16 +42,29 @@ figcaption {
 }
 
 /*tabella*/
+table {
+    border: none;
+    text-align: left;
+}
+
 thead {
     background-color: cornflowerblue;
-    line-height: 10px;
+    line-height: 15px;
     color: white;
+}
+
+td {
+    height: 50px;
+}
+
+th {
+    width: 100px;
+    height: 25px;
 }
 
 .light-blue {
     background-color:lightblue;
 }
-
 
 /*footer*/
 .link {
